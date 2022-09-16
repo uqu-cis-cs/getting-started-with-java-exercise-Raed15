@@ -11,7 +11,7 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-class App.java 
+class App
 {
     public static void main( String[] args )
     {
